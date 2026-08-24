@@ -33,7 +33,15 @@ metadataBase: new URL("https://sumiaya-aiman-portfolio.vercel.app"),  title: "Su
     description: "Responsive web and mobile products built with MERN, Laravel, ASP.NET, Angular, and Flutter.",
     images: ["/og.png"],
   },
-  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
+ icons: {
+  icon: [
+    {
+      url: "/favicon-sa.svg",
+      type: "image/svg+xml",
+    },
+  ],
+  shortcut: "/favicon-sa.svg",
+},
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
