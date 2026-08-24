@@ -2,8 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://sumiaya-aiman-portfolio.red-elk-5043.chatgpt.site"),
-  title: "Sumiaya Aiman Portfolio",
+metadataBase: new URL("https://sumiaya-aiman-portfolio.vercel.app"),  title: "Sumiaya Aiman Portfolio",
   description: "Portfolio of Sumiaya Aiman, a Karachi-based frontend, MERN stack, Laravel, ASP.NET, and Flutter developer building responsive web and mobile products.",
   keywords: [
     "Sumiaya Aiman",
