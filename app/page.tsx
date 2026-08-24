@@ -111,13 +111,13 @@ export default function Home() {
 
         <div className="portrait-wrap reveal delay-1">
           <div className="portrait-frame">
-           <img
-  src="/images/sumiaya-aiman-v2.webp"
-  alt="Sumiaya Aiman, software developer"
-  width="1200"
-  height="1500"
-/>
-            <div className="portrait-overlay"><span>Currently building</span><strong>MERN & Flutter products</strong></div>
+<img
+  src="/images/sumiaya-aiman.jpg"
+  alt="Sumiaya Aiman, Software Developer"
+  width={582}
+  height={744}
+  className="portrait-image"
+/>            <div className="portrait-overlay"><span>Currently building</span><strong>MERN & Flutter products</strong></div>
           </div>
           <div className="floating-card card-top"><span></span> Client-focused delivery</div>
           <div className="floating-card card-bottom"><i /> Open to work</div>
