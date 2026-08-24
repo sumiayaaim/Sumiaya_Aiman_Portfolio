@@ -122,7 +122,6 @@ export default function Home() {
       <section className="logo-strip" aria-label="Core technologies">
         <div>React</div><span>·</span><div>Node.js</div><span>·</span><div>Laravel</div><span>·</span><div>Angular</div><span>·</span><div>Flutter</div><span>·</span><div>ASP.NET</div>
       </section>
-
       <section className="section section-shell" id="about">
         <div className="section-heading split-heading">
           <div><p className="eyebrow">01 / ABOUT</p><h2>Code is the medium.<br /><em>Business value</em> is the goal.</h2></div>
