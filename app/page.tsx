@@ -100,7 +100,7 @@ export default function Home() {
           </p>
           <div className="hero-actions">
             <a className="button" href={profile.upwork} target="_blank" rel="noreferrer">Hire me on Upwork <span>↗</span></a>
-            <a className="button button-secondary" href="/Sumiaya_Aiman_Resume.pdf" download>Download resume <span>↓</span></a>
+            {/* <a className="button button-secondary" href="/Sumiaya_Aiman_Resume.pdf" download>Download resume <span>↓</span></a> */}
           </div>
           <div className="hero-proof" aria-label="Verified highlights">
             <div><strong>10+</strong><span>Projects built</span></div>

@@ -78,7 +78,7 @@ Most portfolio content lives in one file: `app/content.ts`.
 ## Replace assets
 
 - Portrait: `public/images/sumiaya-aiman.jpg`
-- Resume: `public/Sumiaya_Aiman_Resume.pdf`
+<!-- - Resume: `public/Sumiaya_Aiman_Resume.pdf` -->
 - Projects: `public/images/projects/`
 - Certificates: `public/images/certificates/`
 - Social preview: `public/og.png`
